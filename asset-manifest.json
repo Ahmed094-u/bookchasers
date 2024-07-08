@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73898c51.css",
+    "main.js": "/static/js/main.f31cb1b9.js",
+    "static/media/logo2.png": "/static/media/logo2.f05fcd4da22f37df458a.png",
+    "static/media/main-image.png": "/static/media/main-image.45a89625a6974081fe53.png",
+    "static/media/pplmeeting.png": "/static/media/pplmeeting.3ea4d8a5969bd46a41ea.png",
+    "static/media/benefit2.png": "/static/media/benefit2.9be7f94c8113d7f01376.png",
+    "static/media/atomic.jpg": "/static/media/atomic.8fe6ca2c6bffcedaea6f.jpg",
+    "static/media/benefit1.jpg": "/static/media/benefit1.daa5fdee432563d3dd32.jpg",
+    "static/media/benefit3.png": "/static/media/benefit3.56a3f0629541f4e2643c.png",
+    "index.html": "/index.html",
+    "main.73898c51.css.map": "/static/css/main.73898c51.css.map",
+    "main.f31cb1b9.js.map": "/static/js/main.f31cb1b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73898c51.css",
+    "static/js/main.f31cb1b9.js"
+  ]
+}
