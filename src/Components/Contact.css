@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&display=swap');
+
+.contact-header {
+    text-align: center;
+    color: black;
+    font-family: 'Cagliostro', cursive;
+    background-color: #F8F4E1;
+    width: 100%;
+    height: 90px;
+}
+
+
+
+.contact-header h1 {
+    margin-top: 0;
+    text-align: center;
+    color: black;
+    font-size: 3.5rem;
+}
+
+.contact-form {
+    border-style: solid;
+    border-radius: 10%;
+    background-color: #F8F4E1;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.contact-form input,
+.contact-form select,
+.contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5%;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    background-color:#865F44;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.contact-form button:hover {
+    background-color: white;
+    color: #865F44;
+    font-weight: bolder;
+}

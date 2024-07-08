@@ -1,0 +1,86 @@
+.explore-page {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+
+.explore-page h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.explore-page section.book-of-the-month {
+    text-align: left;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: inline-block;
+}
+.botm-text{
+    left: 20px;
+    width:auto !important;
+    line-height: 2;
+    margin-left: 150px;
+}
+
+.explore-page section.book-of-the-month img {
+    width: 10%;
+    height: 50%;
+    
+    float: left;
+}
+
+.explore-page .btn {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #865F44;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.explore-page .btn:hover {
+    background-color: white;
+    color: #865F44;
+}
+
+.explore-page ul {
+    list-style-type: none; /* Removes default bullet styling */
+    padding: 0;
+}
+
+.explore-page li {
+    margin-bottom: 5px;
+}
+.explore-page section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.explore-page .category, .review, .interactions div, .event {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.explore-page h3 {
+    color: #865F44;
+}
+
+.explore-page button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #865F44;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.explore-page button:hover {
+    background-color: #0056b3;
+}
